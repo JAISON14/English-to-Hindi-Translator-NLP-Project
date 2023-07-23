@@ -1,0 +1,4 @@
+tensorflow
+gradio
+transformers
+sentencepiece
